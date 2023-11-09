@@ -11,7 +11,7 @@
 ## Orchestration
 - The `portability and reproducibility` of a containerized process means we have an opportunity to `move and scale` our containerized applications across clouds and data centers. 
 - Furthermore, as we scale our applications up, we’ll want some tooling to help automate the maintenance of those applications, able to replace failed containers automatically and manage the rollout of updates and reconfigurations of those containers during their lifecycle.
-- Containers are great, but when you get lots of them running, at some point, you need them all working together in harmony to solve business problems.
+- Containers are great, but when you get lots of them running, at some point, you need them all working together in harmony to solve business problems..
 
 ![My image](images/orchestration2.png)
 
